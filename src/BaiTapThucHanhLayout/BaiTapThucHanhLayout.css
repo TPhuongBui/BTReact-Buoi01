@@ -1,0 +1,30 @@
+.navbar{
+    background: #212529;
+}
+
+.mainBody{
+    background: #f8f9fa;
+    text-align: center;
+    padding: 80px;
+}
+
+.mainBody h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.mainBody p{
+    font-size: 24px;
+}
+
+.card h5{
+    padding: 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.card .card-body{
+    background: #f8f9fa;
+}
+
